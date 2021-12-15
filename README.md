@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a0jfu5im0u8jmddn/branch/master?svg=true)](https://ci.appveyor.com/project/fattota/apici/branch/master)
